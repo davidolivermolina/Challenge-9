@@ -1,0 +1,16 @@
+{
+    "name": "readme-generator",
+    "version": "1.0.0",
+    "description": "A command-line application to generate README files",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": ["readme", "generator"],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    }
+  }
+
